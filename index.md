@@ -7,16 +7,16 @@
 - My research interests are in computer vision, neural architecture search.
 
 
-### Contact
+## Contact
 
-Autonomous Navigation System Research Group
+- Autonomous Navigation System Research Group
 
-Research Center for Intelligent Computing Systems
+- Research Center for Intelligent Computing Systems
 
-Institute of Computing Technology
+- Institute of Computing Technology
 
-Chinese Academy of Sciences
+- Chinese Academy of Sciences
 
-Beijing 100190, China
+- Beijing 100190, China
 
-Email: sunzihao18z@ict.ac.cn
+- Email: sunzihao18z@ict.ac.cn

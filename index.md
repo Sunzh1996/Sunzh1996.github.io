@@ -6,7 +6,7 @@
 
 - My research interests are in computer vision, neural architecture search.
 
-- Please view my [Github Page:](https://github.com/Sunzh1996)
+- More information please view my [Github Page](https://github.com/Sunzh1996)
 
 
 ## Contact
